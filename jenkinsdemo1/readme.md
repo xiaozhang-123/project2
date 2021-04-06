@@ -48,4 +48,13 @@ execue shell
 https://gitee.com/xiaozhang-123/project2
 
 jenkins执行
-JENKINS_URL/job/project2/build?token=TOKEN_NAME
+
+maven部署相关教程
+https://blog.csdn.net/u010821757/article/details/103351277
+
+这里maven里面填一个pom的位置(相对路径)
+下方命令
+clean install
+
+之后用shell执行命令
+
