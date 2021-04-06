@@ -46,3 +46,6 @@ execue shell
 
 码云地址
 https://gitee.com/xiaozhang-123/project2
+
+jenkins执行
+JENKINS_URL/job/project2/build?token=TOKEN_NAME
